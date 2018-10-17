@@ -3,8 +3,9 @@ EECE2160: Controlling robotic arm with C programs + Simulink designs uploaded to
 
 C++ program project synopsis:
 Program arm to pick up a water bottle and use it to knock down
-the other water bottles on the table. Robotic arm was controlled through 
-memory addresses on the ZedBoard. 
+the other water bottles on the table. 
+
+Robotic arm was controlled through memory addresses on the ZedBoard. 
 
 Simulink program project synopsis:
 Two water bottles are laid out in front of the robotic arm, with three spots 
